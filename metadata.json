@@ -1,0 +1,8 @@
+{
+  "name": "The New Value of Work",
+  "description": "An interactive research observatory on how AI is changing what work is worth across 271 professions, skills, pay gaps, and career ladders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
